@@ -111,7 +111,9 @@ Once this is clear than we can start mapping the information shared above on the
 * The IaaS based DBMS service used in the application portfolio needs to have a memory optimzed VM SKU
 * Application servers need to get the VM SKU that matches their characteristics
 
-[PEusage](/img/PEusage.png)
+![SingleSubscription](https://github.com/mcancillo/testprivaterepo/blob/main/img/SingleSUbscription.png)
+
+
 
 ## Example 2 - application Portfolio spread across multiple application owners
 
@@ -124,7 +126,7 @@ Once this is clear than we can start mapping the information shared above on the
 * The IaaS based DBMS service used in the application portfolio needs to have a memory optimzed VM SKU
 * Application servers need to get the VM SKU that matches their characteristics
 
-[Region and datacenter](/img/tshirt.png)
+![PEusage](https://github.com/mcancillo/testprivaterepo/blob/main/img/PEusage.png)
 
 
 
