@@ -12,6 +12,7 @@ When multiple subscriptions are used for one application portfolio than we have 
 2.	Fragmented resources over multiple datacenters when using multiple regions
 
 This document is aimed at the performance guidelines
+
 **NOTE**: Resilience and BCDR are covered in other documents.
 
 ## How is Azure built up
