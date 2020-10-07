@@ -23,7 +23,7 @@ Regions, at this moment Azure has 61 regions (at this moment 2-Oct-20). The majo
 In order to support Availability Zones in a region multiple datacenters are required.
 The datacenters that construct a region are bound to a maximum latency (as shown below).
 
-[Region and datacenter](https://github.com/mcancillo/testprivaterepo/edit/main/img/tshirt.png)  
+![Region and datacenter](https://github.com/mcancillo/testprivaterepo/edit/main/img/tshirt.png)  
 
 When resources are deployed in a region this does not guarantee that all located in one datacenter. There are scenarios, often when High Availability is high(er) in priority or when there are strict security rules.
  
