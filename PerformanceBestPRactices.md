@@ -22,7 +22,9 @@ It is important to have a high level overview on how Azure is Built up. Manageme
 Regions, at this moment Azure has 61 regions (at this moment 2-Oct-20). The majority of regions have 1 or more datacenters.
 In order to support Availability Zones in a region multiple datacenters are required.
 The datacenters that construct a region are bound to a maximum latency (as shown below).
+
 [Region and datacenter](/img/tshirt.png)  
+
 When resources are deployed in a region this does not guarantee that all located in one datacenter. There are scenarios, often when High Availability is high(er) in priority or when there are strict security rules.
  
 ## Default Subscription topology
